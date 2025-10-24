@@ -2,7 +2,7 @@
 
 Eine Web-App zum Verwalten von Bewerbungen (CRUD + Dashboard) mit KI-Funktionen.
 
-## 🚀 Features
+## Features
 - Bewerbungen anlegen, bearbeiten, löschen (CRUD)
 - Dashboard mit Status-Übersicht (z. B. offen, eingeladen, abgelehnt)
 - KI-Tools:
@@ -10,16 +10,16 @@ Eine Web-App zum Verwalten von Bewerbungen (CRUD + Dashboard) mit KI-Funktionen.
   - Feedback-Analyse
   - Interview-Simulator
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Java 17 + Spring Boot
 - PostgreSQL oder MySQL (über Xampp)
 - HTML, CSS, JavaScript (oder React)
 - IntelliJ IDEA, GitHub, Maven
 
-## 🧩 Architektur
+## Architektur
 - Backend: REST API mit Spring Boot
 - Frontend: Web-App mit JS / HTML
 - DB: Bewerbungsdaten, Feedbacks, Unternehmen
 
-## 📈 Ziele
+## Ziele
 Lernprojekt zur Vertiefung von Java, Spring Boot und Webentwicklung.
